@@ -1,0 +1,6 @@
+def lem():
+    return False
+
+def hap():
+    return True
+
